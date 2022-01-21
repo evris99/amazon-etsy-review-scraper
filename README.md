@@ -6,7 +6,7 @@ A simple desktop GUI program to download reviews from Amazon and Etsy and export
 
 To download Etsy reviews you need an API key from [here](https://www.etsy.com/developers/documentation/getting_started/api_basics). This is not needed for Amazon reviews. 
 
-To start downloading product reviews past your API key in the top input box and write the URLs to the products on the lower input box. Then click the button.
+To start downloading product reviews paste your API key in the top input box and write the URLs to the products on the lower input box. Then click the button.
 
 ## Installation
 
