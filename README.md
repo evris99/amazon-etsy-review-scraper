@@ -12,7 +12,7 @@ To start downloading product reviews past your API key in the top input box and 
 
 ### Windows
 
-You can find the executable [here]().
+You can find the executable [here](https://github.com/evris99/amazon-etsy-review-scraper/releases/download/v1.0.0/review_scraper.exe).
 
 ### Linux / Mac
 
